@@ -14,8 +14,7 @@ Before you begin, ensure you have the following installed on your local machine:
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/TuanFaiedAhamadh/django-backend.git
-cd django-backend
+git clone https://github.com/TuanFaied/backend-django.git
 ```
 
 Create a .env file in the project root and set necessary environment variables. You can use .env.example as a reference.
